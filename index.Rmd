@@ -1,0 +1,32 @@
+---
+title: "Gallium Antimonide Thermophotovoltaic Heat Energy Harvester"
+output: 
+  bookdown::html_document2
+    toc: yes
+
+---
+Copyright \textcoopyright 2021 Uniten Press
+
+Published in Malaysia by:
+Uniten Press
+Universiti Tenaga Nasional
+Putrajaya Campus
+Jalan Ikram-Uniten 43000 Kajang Selangor, Malaysia.
+Tel: +603-89212020
+Fax: +603-89212065
+Website: https://www.uniten.edu.my/research/unitenpress/
+
+Email: unitenpress@uniten.edu.my
+
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior permission from the publisher
+
+Perpustakaan Negara Malaysia _Cataloguing-in-Publication Data_
+
+
+
+eISBN: 978-967-5770-84-5
+
+# Preface {-}
+Gallium antimonide (GaSb) semiconductor material is suitable for thermophotovoltaic (TPV) cell fabrication due to its ability in absorbing infrared photons up to wavelengths of 1800 nm and convert them into useful electricity. Recent investigations on the GaSb TPV cell have led to significant progress and advancement on the cell performance. However, due to electrical losses through bulk and surface recombination, the power conversion efficiency of GaSb-based TPV cells can still be improved. Furthermore, comprehensive research on the optimization of GaSb TPV cell design structure and the dominant factors which govern its efficiency have not been elucidated. Therefore, the main goal of this study is to investigate the optimum design of p-n GaSb TPV cell and its dominant factors through electrical characterization and optimization studies. In this work, the Silvaco TCAD simulation software and Taguchi optimization method were employed as a research tool to develop and optimize the GaSb TPV cell model. Validation of the GaSb TPV cell model was carried out under AM 1.5 and TPV spectra. Through the validation processes, a set of GaSb physical parameters that are reliable to be used for GaSb TPV cell simulation and optimization work was established. The characterization of the modeled GaSb TPV cell was executed under different blackbody temperatures from 600 ºC to 1800 ºC. It was found that the cell can be operated at source temperature as low as 600 °C and the optimal operating temperature that gives highest cell conversion efficiency is at 1400 ºC. Next, the doping concentration and thickness of both emitter and base layers of GaSb TPV cell were chosen as the design parameters to perform direct and simultaneous optimizations. The direct optimization study reveals the fundamental physics behind the influence of each design parameter on the cell performance. An efficiency improvement of 0.51% from the non-optimized model was found at the optimal emitter layer thickness of 0.10 µm. On the other hand, higher cell performance was achieved through the simultaneous optimization method. The Taguchi optimization results show that the base layer doping concentration is the dominant factor for short-circuit current density and open-circuit voltage performances, while the emitter layer thickness is the dominant factors for short-circuit current density. The optimal configuration of the design parameters was found to be 0.1 µm (7 × 1019 cm-3) for emitter layer and 400 µm (3 × 1017 cm-3) for base layer. The cell efficiency increases from 19.38% to 20.54%, with an increment of 1.16%. Based on the simulation under 1400 ºC, this increment is equivalent to a potential additional energy production of 16 MWh per year for a 31.9 kW TPV panel. The findings in the optimization studies have important implications for future research work in developing high-performance GaSb TPV cells. Moreover, the model developed in this study can be used in the simulation and optimization work of GaSb TPV cells, reducing the cost of optimization using actual growth and fabrication of TPV cells. 
+
+
